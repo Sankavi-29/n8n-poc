@@ -33,6 +33,7 @@ def main():
         print("2. Show the Tasks....")
         print("4. Exit....")
         print("2. Show the Tasks....")
+        print("4. Exit....")
 
         choice = input("Choose an option: ")
 
