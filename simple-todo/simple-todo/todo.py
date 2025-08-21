@@ -27,10 +27,14 @@ def main():
 
     while True:
         print("\n==== To-Do App ====")
-        print("1. Add Task")
-        print("2. Show Tasks")
-        print("3. Remove Task")
-        print("4. Exit")
+        print("1. Add the Task....")
+        print("2. Show the Tasks....")
+        print("3. Remove the ....")
+        print("2. Show the Tasks....")
+        print("4. Exit....")
+        print("2. Show the Tasks....")
+        print("4. Exit....")
+        print("2. Show the Tasks....")
 
         choice = input("Choose an option: ")
 
